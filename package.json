@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0",
+    "telebot": "^1.4.1"
+  },
+  "engines": {
+    "node": "14.15.1"
+  }
 }
